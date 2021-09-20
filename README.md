@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Ewerton Oliveira 
-##### Estudante de React e Kotlin
+##### Estudando Kotlin
  <div>
   <a href="https://github.com/Ewerton-TI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ewerton-TI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
